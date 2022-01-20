@@ -1,0 +1,33 @@
+body {
+  background-color: rgba(71, 194, 89, 0.679);
+}
+
+body #main {
+  margin-top: 20px;
+}
+
+body #main .edificiosImg {
+  border: solid 2px white;
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+}
+
+body #main iframe {
+  border: solid 2px white;
+  display: block;
+  width: 100%;
+  margin: 3px 3px 3px 0px;
+}
+
+body #main .reunionImg {
+  height: 20rem;
+  width: 100%;
+  border: solid 2px white;
+  border-radius: 5px;
+}
+
+body #main .reunionImg:hover {
+  zoom: 200%;
+}
+/*# sourceMappingURL=style.css.map */
